@@ -19,7 +19,7 @@ function appendKitten(name){
 }
 
 function prependKitten(name){
-  var newKitten = [...Kitten]
-  newKitten.unshift(name)
-  return newKitten
+  var newKittens = [...Kitten]
+  newKittens.unshift(name)
+  return newKittens
 }
