@@ -23,3 +23,7 @@ function prependKitten(name){
   newKittens.unshift(name)
   return newKittens
 }
+
+function removeLastKitten(){
+  var newKittens = 
+}
